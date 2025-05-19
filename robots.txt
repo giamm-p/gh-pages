@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://github.com/giamm-p/gh-pages/sitemap.xml
+Sitemap: https://kickigai.com/sitemap.xml
